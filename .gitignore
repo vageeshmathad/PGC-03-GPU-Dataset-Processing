@@ -1,0 +1,12 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+
+# Office lock files
+~$*.docx
+~$*.pptx
+
+# Cache
+__pycache__/
+*.pyc
