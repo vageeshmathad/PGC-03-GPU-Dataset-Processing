@@ -1,4 +1,4 @@
-# PGC-03: Advanced GPU Dataset Processing using CUDA (Enhanced Edition)
+ Advanced GPU Dataset Processing using CUDA 
 
 A high-performance parallel computing benchmark analyzing execution times, architectural speedups, memory bus saturation, and PCIe latency hiding across large numeric datasets on an NVIDIA GPU.
 
